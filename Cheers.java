@@ -10,7 +10,7 @@ public class Cheers {
                  System.out.println("Give me an "+ cheerWord.charAt(i)+": "+ cheerWord.charAt(i)+"!");
                 }
                 else
-                System.out.println("Give me a "+ cheerWord.charAt(i)+": "+ cheerWord.charAt(i)+"!");
+                System.out.println("Give me a  "+ cheerWord.charAt(i)+": "+ cheerWord.charAt(i)+"!");
             } 
             System.out.println("What does that spell?");  
             int times = Integer.parseInt(args[1]);
